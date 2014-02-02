@@ -6,9 +6,21 @@ to aid you in performing forensics analysis tasks.
 
 The documentation is organized into a few different sections below:
 
+* :ref:`cheatsheet-docs`
 * :ref:`user-docs`
 * :ref:`tool-docs`
 * :ref:`about-docs`
+
+.. _cheatsheet-docs:
+
+Cheatsheet
+----------
+
+.. toctree::
+   :maxdepth: 2
+   
+   cheatsheet/index
+   
 
 .. _user-docs:
 
