@@ -8,5 +8,5 @@ SIFT is a collection of tools, scripts, libraries and utilities that help facili
 .. toctree::
   :maxdepth: 2
   :glob:
-  
-  log2timeline
+
+  *
