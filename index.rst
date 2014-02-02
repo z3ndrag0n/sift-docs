@@ -6,12 +6,12 @@ to aid you in performing forensics analysis tasks.
 
 The documentation is organized into a few different sections below:
 
-* :ref:`cheatsheet-docs`
+* :ref:`cheatsheet`
 * :ref:`user-docs`
-* :ref:`tool-docs`
+* :ref:`tools`
 * :ref:`about-docs`
 
-.. _cheatsheet-docs:
+.. _cheatsheet:
 
 Cheatsheet
 ----------
@@ -27,12 +27,14 @@ Cheatsheet
 User Documentation
 ------------------
 
+The User Documentation covers general use of the toolkit along with installation and upgrade instructions.
+
 .. toctree::
    :maxdepth: 2
 
-The User Documentation covers general use of the toolkit along with installation and upgrade instructions.
-
-   user/index
+   user/filesystems
+   user/evidence_image_support
+   user/partition_table_support
 
 
 .. _tool-docs:
