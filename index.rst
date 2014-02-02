@@ -7,9 +7,9 @@ to aid you in performing forensics analysis tasks.
 The documentation is organized into a few different sections below:
 
 * :ref:`cheatsheet`
-* :ref:`user-docs`
+* :ref:`manual`
 * :ref:`tools`
-* :ref:`about-docs`
+* :ref:`about`
 
 .. _cheatsheet:
 
@@ -22,12 +22,12 @@ Cheatsheet
    cheatsheet/index
    
 
-.. _user-docs:
+.. _manual:
 
-User Documentation
-------------------
+User Manual
+-----------
 
-The User Documentation covers general use of the toolkit along with installation and upgrade instructions.
+The User Manaul covers general use of the toolkit along with installation and upgrade instructions.
 
 .. toctree::
    :maxdepth: 2
@@ -37,21 +37,21 @@ The User Documentation covers general use of the toolkit along with installation
    user/partition_table_support
 
 
-.. _tool-docs:
+.. _tools:
 
-Tool Documentation
-------------------
+Tools
+-----
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    tools/index
 
 
-.. _about-docs:
+.. _about:
 
-About SIFT
-----------
+About
+-----
 
 .. toctree::
    :maxdepth: 2
