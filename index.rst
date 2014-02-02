@@ -6,21 +6,11 @@ to aid you in performing forensics analysis tasks.
 
 The documentation is organized into a few different sections below:
 
-* :ref:`cheatsheet`
 * :ref:`manual`
 * :ref:`tools`
+* :ref:`cheatsheet`
 * :ref:`about`
 
-.. _cheatsheet:
-
-Cheatsheet
-----------
-
-.. toctree::
-   :maxdepth: 2
-   
-   cheatsheet/index
-   
 
 .. _manual:
 
@@ -30,12 +20,9 @@ User Manual
 The User Manaul covers general use of the toolkit along with installation and upgrade instructions.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-   user/filesystems
-   user/evidence_image_support
-   user/partition_table_support
-
+   user/index
 
 .. _tools:
 
@@ -47,6 +34,17 @@ Tools
 
    tools/index
 
+
+.. _cheatsheet:
+
+Cheatsheet
+----------
+
+.. toctree::
+   :maxdepth: 2
+   
+   cheatsheet/index
+   
 
 .. _about:
 
