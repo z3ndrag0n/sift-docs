@@ -200,7 +200,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'SANSInvestigativeForensicsToolkit.tex', u'SANS Investigative Forensics Toolkit Documentation',
-   u'Erik Kristensen, Rob Lee', 'manual'),
+   u'SANS Institute', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
