@@ -21,3 +21,7 @@ Include the following command line tools.
 * ewfmount; which FUSE mounts EWF files.
 * ewfrecover; special variant of ewfexport to create a new set of EWF files from a corrupt set.
 * ewfverify; which verifies the storage media data in EWF files. 
+
+libewf-python
+-------------
+Python bindings for libewf

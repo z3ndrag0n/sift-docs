@@ -67,16 +67,21 @@ jdgui                                                                    0.3.5
 kdiff3                                                                   0.9.96-2
 knocker                                                                  0.7.1-3.1
 kpartx                                                                   0.4.9-3ubuntu5
-libbde                                                                   20130908-1ubuntu2 
-libesedb                                                                 20120102-1ubuntu1
-libevt                                                                   20131013-1ubuntu1
-libevtx                                                                  20131013-1ubuntu1
+libbde                                                                   20130908-1ubuntu2                             :doc:`/tools/libbde`
+libbde-tools                                                             20130908-1ubuntu2                             :doc:`/tools/libbde`
+libesedb                                                                 20120102-1ubuntu1                             :doc:`/tools/libesedb`
+libesedb-tools                                                           20120102-1ubuntu1                             :doc:`/tools/libesedb`
+libevt                                                                   20131013-1ubuntu1                             :doc:`/tools/libevt`
+libevt-tools                                                             20131013-1ubuntu1                             :doc:`/tools/libevt`
+libevtx                                                                  20131013-1ubuntu1                             :doc:`/tools/libevtx`
+libevtx-tools                                                            20131013-1ubuntu1                             :doc:`/tools/libevtx`
 libewf                                                                   20131210-1ubuntu2                             :doc:`/tools/libewf`
-libewf-dev                                                               20131210-1ubuntu2
-libewf-python                                                            20131210-1ubuntu2
+libewf-dev                                                               20131210-1ubuntu2                             :doc:`/tools/libewf`
+libewf-python                                                            20131210-1ubuntu2                             :doc:`/tools/libewf`
 libewf-tools                                                             20131210-1ubuntu2                             :doc:`/tools/libewf`
 libfuse-dev                                                              2.8.6-2ubuntu2
 libfvde                                                                  20130305-1ubuntu3 
+libfvde-tools                                                            20130305-1ubuntu3
 liblightgrep                                                             1.2.1-ubuntu2 
 libmsiecf                                                                20131015-1ubuntu1 
 libnet1                                                                  1.1.4-2.1
