@@ -139,8 +139,8 @@ python-qt4                                                               4.9.1-2
 python-tk                                                                2.7.3-1ubuntu1
 python-yara                                                              1.7-1ubuntu1~ppa1~p
 pytsk3                                                                   4.1.2-1ubuntu2
-qemu                                                                     1.0+noroms-0ubuntu14.12
-qemu-utils                                                               1.0+noroms-0ubuntu14.12
+qemu                                                                     1.0+noroms-0ubuntu14.12                       :doc:`/tools/qemu`
+qemu-utils                                                               1.0+noroms-0ubuntu14.12                       :doc:`/tools/qemu`
 readpst                                                                  0.6.54-0ubuntu1
 rsakeyfind                                                               1:1.0-2build1
 safecopy                                                                 1.6-1build1
