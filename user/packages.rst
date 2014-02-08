@@ -8,6 +8,7 @@ Name                                                                     Version
 ======================================================================== ============================================= ====================================
 4n6time-static                                                           1.0.1-1ubuntu1 
 aeskeyfind                                                               1:1.0-1
+afflib-tools                                                             3.6.6-1.1                                     :doc:`/tools/afflib`
 afterglow                                                                1.6.4-ubuntu1
 aircrack-ng	                                                             1.2-beta2-sift1
 arp-scan	                                                               1.8.1-1
@@ -67,6 +68,7 @@ jdgui                                                                    0.3.5
 kdiff3                                                                   0.9.96-2
 knocker                                                                  0.7.1-3.1
 kpartx                                                                   0.4.9-3ubuntu5
+libafflib0                                                               3.6.6-1.1                                     :doc:`/tools/afflib`
 libbde                                                                   20130908-1ubuntu2                             :doc:`/tools/libbde`
 libbde-tools                                                             20130908-1ubuntu2                             :doc:`/tools/libbde`
 libesedb                                                                 20120102-1ubuntu1                             :doc:`/tools/libesedb`
