@@ -74,7 +74,7 @@ libevtx                                                                  2013101
 libewf                                                                   20131210-1ubuntu2                             :doc:`/tools/libewf`
 libewf-dev                                                               20131210-1ubuntu2
 libewf-python                                                            20131210-1ubuntu2
-libewf-tools                                                             20131210-1ubuntu2                             :doc:`/tools/libewf-tools`
+libewf-tools                                                             20131210-1ubuntu2                             :doc:`/tools/libewf`
 libfuse-dev                                                              2.8.6-2ubuntu2
 libfvde                                                                  20130305-1ubuntu3 
 liblightgrep                                                             1.2.1-ubuntu2 
