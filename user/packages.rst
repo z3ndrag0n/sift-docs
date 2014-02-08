@@ -80,8 +80,8 @@ libewf-dev                                                               2013121
 libewf-python                                                            20131210-1ubuntu2                             :doc:`/tools/libewf`
 libewf-tools                                                             20131210-1ubuntu2                             :doc:`/tools/libewf`
 libfuse-dev                                                              2.8.6-2ubuntu2
-libfvde                                                                  20130305-1ubuntu3 
-libfvde-tools                                                            20130305-1ubuntu3
+libfvde                                                                  20130305-1ubuntu3                             :doc:`/tools/libfvde`
+libfvde-tools                                                            20130305-1ubuntu3                             :doc:`/tools/libfvde`
 liblightgrep                                                             1.2.1-ubuntu2 
 libmsiecf                                                                20131015-1ubuntu1 
 libnet1                                                                  1.1.4-2.1
@@ -95,10 +95,10 @@ libregf-python                                                           2013092
 libregf-tools	                                                           20130922-1ubuntu2
 libssl-dev	                                                             1.0.1-4ubuntu5.10
 libtext-csv-perl	                                                       1.21-1
-libvshadow	                                                             20131209-1ubuntu2
-libvshadow-dev	                                                         20131209-1ubuntu2
-libvshadow-python	                                                       20131209-1ubuntu2
-libvshadow-tools	                                                       20131209-1ubuntu2
+libvshadow	                                                             20131209-1ubuntu2                             :doc:`/tools/libvshadow`
+libvshadow-dev	                                                         20131209-1ubuntu2                             :doc:`/tools/libvshadow`
+libvshadow-python	                                                       20131209-1ubuntu2                             :doc:`/tools/libvshadow`
+libvshadow-tools	                                                       20131209-1ubuntu2                             :doc:`/tools/libvshadow`
 libxml2-dev                                                              2.7.8.dfsg-5.1ubuntu4.6
 lft                                                                      2.2-4
 mac-robber                                                               1.02-sift1
@@ -120,6 +120,7 @@ openjdk-6-jdk                                                            6b27-1.
 ophcrack                                                                 3.3.0-1build1
 ophcrack-cli                                                             3.3.0-1build1
 outguess                                                                 1:0.2-7
+perl-log2timeline                                                        UNKNOWN                                       :doc:`/tools/log2timeline`
 p7zip-full                                                               9.20.1~dfsg.1-4
 phonon                                                                   4:4.7.0really4.6.0-0ubuntu1
 p0f                                                                      2.0.8-2
@@ -131,7 +132,7 @@ python-flowgrep                                                          0.9-ubu
 python-nids                                                              0.6.1-1build1
 python-ntdsxtract                                                        1.2-beta-ubuntu6
 python-pefile                                                            1.2.9.1-1
-python-plaso                                                             1.0.2-3 
+python-plaso                                                             1.0.2-3                                       :doc:`/tools/plaso`
 python-qt4                                                               4.9.1-2ubuntu1
 python-tk                                                                2.7.3-1ubuntu1
 python-yara                                                              1.7-1ubuntu1~ppa1~p
@@ -144,7 +145,7 @@ safecopy                                                                 1.6-1bu
 scalpel                                                                  1.60-1build1
 samdump2                                                                 1.1.1-1
 socat                                                                    1.7.1.3-1.2
-sleuthkit                                                                4.1.3-1ubuntu5
+sleuthkit                                                                4.1.3-1ubuntu5                                :doc:`/tools/sleuthkit`
 ssdeep                                                                   2.7-1
 ssldump                                                                  0.9b3-4.1
 stegdetect                                                               1.0-precise1
