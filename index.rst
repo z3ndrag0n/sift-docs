@@ -4,6 +4,8 @@ SIFT Documentation
 `SIFT` (SANS Investigative Forensics Toolkit) is a collection of various tools
 to aid you in performing forensics analysis tasks.
 
+**Documentation Status:** Work In Progress - ALPHA
+
 The documentation is organized into a few different sections below:
 
 * :ref:`manual`
