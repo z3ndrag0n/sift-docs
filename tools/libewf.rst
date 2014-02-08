@@ -5,17 +5,14 @@ Library for the Expert Witness File Format
 * Author: Joachim Metz
 * Website: https://code.google.com/p/libewf/
 
-libewf-tools
--------------
-Tools for working with the Expert Witness File format. Requires: libewf.
-
-* Author: Joachim Metz
-* Website: https://code.google.com/p/libewf/
-
 Full documentation located at https://code.google.com/p/libewf/
 
-Tools
-^^^^^
+libewf-tools
+-------------
+Tools for working with the Expert Witness File format.
+
+Include the following command line tools.
+
 * ewfacquire; which writes storage media data from devices and files to EWF files.
 * ewfacquirestream; which writes data from stdin to EWF files.
 * ewfdebug; experimental tool does nothing at the moment.
