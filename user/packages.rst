@@ -28,6 +28,7 @@ clamav                                                                   0.97.8+
 cmospwd                                                                  5.0
 cryptcat                                                                 20031202-4
 cryptsetup                                                               2:1.4.1-2ubuntu4
+curl                                                                     7.22.0-3ubuntu4.7
 dc3dd                                                                    7.1.614-1
 dcfldd                                                                   1.3.4.1-2
 dconf-tools                                                              0.12.0-0ubuntu1.1
