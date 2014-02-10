@@ -1,9 +1,9 @@
-Tools
-=====
+Packages
+========
 
 SIFT is a collection of tools, scripts, libraries and utilities that help facilitate your computer and mobile forensics needs.
 
-All Tools
+All Packages
 ---------
 
 .. toctree::
@@ -11,21 +11,3 @@ All Tools
   :glob:
 
   *
-  
-
-Registry Analysis
------------------
-
-.. toctree:: 
-  :maxdepth: 2
-  
-
-
-
-Artifact Analysis
------------------
-
-.. toctree::
-  :maxdepth 2
-  
-  sleuthkit
