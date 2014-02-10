@@ -10,6 +10,7 @@ The documentation is organized into a few different sections below:
 
 * :ref:`manual`
 * :ref:`tools`
+* :ref:`packages`
 * :ref:`cheatsheet`
 * :ref:`about`
 
@@ -35,6 +36,17 @@ Tools
    :maxdepth: 3
 
    tools/index
+
+
+.. _packages:
+
+Packages
+--------
+
+.. toctree::
+   :maxdepth: 3
+   
+   packages/index
 
 
 .. _cheatsheet:
