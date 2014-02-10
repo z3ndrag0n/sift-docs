@@ -1,0 +1,5 @@
+ewfacquire
+==========
+
+* **Package:** libewf-tools
+
