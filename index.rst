@@ -57,5 +57,4 @@ About
    :maxdepth: 2
 
    about/index
-   about/contributors
 
